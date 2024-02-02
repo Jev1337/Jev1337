@@ -1,10 +1,19 @@
-<!-- Copy-paste in your Readme.md file -->
+### Jev1337
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=19759761&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19759761&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @Jev1337" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=19759761&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
+![Discord](https://img.shields.io/discord/428565759518703617?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/222395952894443520)  <a href="https://github.com/Jev1337">
+  <img src="https://komarev.com/ghpvc/?username=Jev1337&style=flat-square" />
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+
+
+An engineering student with a passion for CS.
+
+
+<a href="https://github.com/Jev1337">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jev1337&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/Jev1337">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jev1337&layout=compact" />
+</a>
+
