@@ -11,12 +11,10 @@ An engineering student with a passion for CS.
 
 
 <a href="https://github.com/Jev1337">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jev1337&show_icons=true&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jev1337&show_icons=true&hide_border=true" />
 </a>
 
-***
-
 <a href="https://github.com/Jev1337">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jev1337&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jev1337&layout=compact" />
 </a>
 
