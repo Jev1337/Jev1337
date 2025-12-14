@@ -9,7 +9,7 @@
 
 An engineering student with a passion for CS.
 
-Portfolio & CV: [https://gitlab.com/Jev1337/cv-resume/](https://jev1337.gitlab.io/cv-resume/)
+[Portfolio & CV](https://jev1337.gitlab.io/cv-resume/)
 
 
 <a href="https://github.com/Jev1337">
