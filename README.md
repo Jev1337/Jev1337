@@ -9,6 +9,8 @@
 
 An engineering student with a passion for CS.
 
+Portfolio & CV: https://gitlab.com/Jev1337/cv-resume/
+
 
 <a href="https://github.com/Jev1337">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jev1337&show_icons=true&hide_border=true" />
